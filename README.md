@@ -3,12 +3,12 @@ This repository is intended to be the central hub for the Azure AI developer com
 
 ## Features
 This repository will provide the following:
-* A list of curated Azure AI code samples around top Azure AI developer jobs to be done and the most popular end-to-end customer scenarios that use AI. 
-* An active discussions hub for the community to ask questions or provide feedback to the Azure AI product teams, and just have discussions around Azure AI SDKs  
+* A list of curated [samples](https://aka.ms/azai/samples) around top Azure AI developer jobs to be done and the most popular end-to-end customer scenarios that use AI. 
+* An active [Azure AI hub](https://aka.ms/azai) for the community to ask questions or provide feedback to the Azure AI product teams, and just have discussions around Azure AI SDKs and tools
 * Any other suggestions are welcome!
 
 ## Getting Started
-Head over to the Discussions tab and introduce yourself, start a new topic or jump in to an existing one. Alternately, dig into the below samples, then come back to our discussions and let us know what you think. 
+Head over to the [Discussions](https://aka.ms/azai) tab and introduce yourself, start a new topic or jump in to an existing one. Alternately, dig into the below samples, then come back to our discussions and let us know what you think. 
 
 ## Azure AI code samples 
 
