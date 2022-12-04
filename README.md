@@ -4,7 +4,7 @@ This repository is intended to be the central hub for the Azure AI developer com
 ## Features
 This repository will provide the following:
 * A list of curated [samples](https://aka.ms/azai/samples) around top Azure AI developer jobs to be done and the most popular end-to-end customer scenarios that use AI. 
-* An active [Azure AI hub](https://aka.ms/azai) for the community to ask questions or provide feedback to the Azure AI product teams, and just have discussions around Azure AI SDKs and tools
+* An active [discussions](https://aka.ms/azai) channel for the community to ask questions or provide feedback to the Azure AI product teams, and just have discussions around Azure AI SDKs and tools
 * Any other suggestions are welcome!
 
 ## Getting Started
