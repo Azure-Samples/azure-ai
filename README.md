@@ -14,9 +14,11 @@ Head over to the Discussions tab and introduce yourself, start a new topic or ju
 
 Use **OpenAI** to make sense of a large dataset using [**Query based Summarization**](https://github.com/Azure-Samples/summarization-python-openai) in a Python notebook 
 
-Integrate **Speech** AI into your apps using your programming language of choice with [**Speech SDK samples**](https://github.com/Azure-Samples/cognitive-services-speech-sdk/blob/master/README.md#sample-repository-for-the-microsoft-cognitive-services-speech-sdk) 
-
 Use **Translator** to translate documents from and into more than 100 different languages using [**Document Translation sample apps**](https://github.com/MicrosoftTranslator/DocumentTranslation) 
+
+Use **Form Recognizer** to automate a paper based process using the [**New patient registration with Form Recognizer workshop**](https://newpatiente2e.github.io/docs/)
+
+Integrate **Speech** AI into your apps using your programming language of choice with [**Speech SDK samples**](https://github.com/Azure-Samples/cognitive-services-speech-sdk/blob/master/README.md#sample-repository-for-the-microsoft-cognitive-services-speech-sdk) 
 
 Extract, classify, and understand text within documents using **Text Analytics** in [**Python**](https://github.com/Azure/azure-sdk-for-python/blob/main/sdk/textanalytics/azure-ai-textanalytics/samples/README.md#samples-for-azure-text-analytics-client-library-for-python), [**.NET**](https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/textanalytics/Azure.AI.TextAnalytics/samples#azure-cognitive-services-text-analytics-client-library-for-net), [**TypeScript**](https://github.com/Azure/azure-sdk-for-js/tree/main/sdk/textanalytics/ai-text-analytics/samples/v5/typescript#azure-text-analytics-client-library-samples-for-typescript), [**JavaScript**](https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/textanalytics/ai-text-analytics/samples/v5/javascript/README.md#azure-text-analytics-client-library-samples-for-javascript), and [**Java**](https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/textanalytics/azure-ai-textanalytics/src/samples/README.md#azure-cognitive-services-for-language-client-library-samples-for-java)  
 
