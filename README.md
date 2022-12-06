@@ -16,7 +16,7 @@ Use **OpenAI** to make sense of a large dataset using [**Query based Summarizati
 
 Use **Translator** to translate documents from and into more than 100 different languages using [**Document Translation sample apps**](https://github.com/MicrosoftTranslator/DocumentTranslation) 
 
-Use **Form Recognizer** to automate a paper based process using the [**New patient registration with Form Recognizer workshop**](https://newpatiente2e.github.io/docs/)
+Use **Form Recognizer** to automate a paper based process using the [**New patient registration with Form Recognizer workshop**](https://newpatiente2e.github.io/docs/). ([**Code Sample**](https://github.com/newpatiente2e/Contoso-New-Patient-App)) 
 
 Integrate **Speech** AI into your apps using your programming language of choice with [**Speech SDK samples**](https://github.com/Azure-Samples/cognitive-services-speech-sdk/blob/master/README.md#sample-repository-for-the-microsoft-cognitive-services-speech-sdk) 
 
