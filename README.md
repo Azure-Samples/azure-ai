@@ -1,7 +1,7 @@
 # Azure AI Hub
-This repository is intended to be a hub for the Azure AI developer community to talk directly to the Microsoft product teams working on Azure AI and others like themselves. You are an Azure AI developer if you integrate or want to integrate AI into your apps using Azure AI services like OpenAI, Speech, Language, Form Recognizer, etc. This readme includes links to a curated list of samples in different programming languages that use Azure AI SDKs. 
+Welcome to a hub for the Azure AI developer community! You are an Azure AI developer if you integrate or want to integrate Azure AI into your apps using Cognitive Services like OpenAI, Speech, Text Analytics, Form Recognizer, etc. This readme includes links to a curated list of samples in different programming languages that use Azure AI SDKs (client libraries). The [Discussions](https://aka.ms/azai) tab is an opportunity for you to talk directly to the Microsoft product teams working on Azure AI services and others like yourselves looking to develop solutions with Azure AI. 
 
-Head over to the [Discussions](https://aka.ms/azai) tab and introduce yourself, start a new topic or jump in to an existing one. Alternately, dig into the below samples, then come back to our discussions and let us know what you think. 
+Head over to the [Discussions](https://aka.ms/azai) tab and introduce yourself, start a new topic or jump in to an existing one. Alternately, dig into the below samples, then come back to our discussions and let us know what you think. This is a brand new hub and we welcome contributions, feedback and what else you would like to see here.
 
 ## OpenAI (Python)
 
