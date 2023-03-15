@@ -27,11 +27,11 @@ This repository is intended to be a hub for the Azure AI developer community to 
 
 ## Speech/Vision
 
-- [Speech SDK based Captioning and Call Center Transcription in Python, .NET, JavaScript, Java, C++ and Go ](https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/scenarios)
+- [Captioning and Call Center Transcription in Python, .NET, JavaScript, Java, C++ and Go ](https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/scenarios)
 
 - Integrate Speech into your apps with [Speech SDK Samples in Python, .NET, JavaScript, Java, C++ and other languages](https://learn.microsoft.com/en-us/samples/azure-samples/cognitive-services-speech-sdk/sample-repository-for-the-microsoft-cognitive-services-speech-sdk/)
 
-- [Image Analysis SDK Sample in Python, .NET and C++](https://learn.microsoft.com/en-us/samples/azure-samples/azure-ai-vision-sdk/azure-ai-vision-sdk-preview-samples/)
+- [Analyze images in Python, .NET and C++](https://learn.microsoft.com/en-us/samples/azure-samples/azure-ai-vision-sdk/azure-ai-vision-sdk-preview-samples/)
 
 ## Language
 
@@ -47,9 +47,9 @@ This repository is intended to be a hub for the Azure AI developer community to 
 
 ## Applied AI/Decision
 
-- Extract structured data from forms, receipts, invoices, and cards using **Form Recognizer** in [**Python**](https://github.com/Azure/azure-sdk-for-python/blob/main/sdk/formrecognizer/azure-ai-formrecognizer/samples/README.md#samples-for-azure-form-recognizer-client-library-for-python), [**.NET**](https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/formrecognizer/Azure.AI.FormRecognizer/samples/README.md#common-scenarios-samples-for-client-library-version-400), [**TypeScript**](https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/formrecognizer/ai-form-recognizer/samples/v4/typescript/README.md#azure-form-recognizer-client-library-samples-for-typescript), [**JavaScript**](https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/formrecognizer/ai-form-recognizer/samples/v4/javascript/README.md#azure-form-recognizer-client-library-samples-for-javascript), and [**Java**](https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/formrecognizer/azure-ai-formrecognizer/src/samples/README.md#azure-form-recognizer-client-library-samples-for-java) 
+- Extract structured data from forms, receipts, invoices, and cards using Form Recognizer in [Python](https://github.com/Azure/azure-sdk-for-python/blob/main/sdk/formrecognizer/azure-ai-formrecognizer/samples/README.md#samples-for-azure-form-recognizer-client-library-for-python), [.NET](https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/formrecognizer/Azure.AI.FormRecognizer/samples/README.md#common-scenarios-samples-for-client-library-version-400), [TypeScript](https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/formrecognizer/ai-form-recognizer/samples/v4/typescript/README.md#azure-form-recognizer-client-library-samples-for-typescript), [JavaScript](https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/formrecognizer/ai-form-recognizer/samples/v4/javascript/README.md#azure-form-recognizer-client-library-samples-for-javascript), and [Java](https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/formrecognizer/azure-ai-formrecognizer/src/samples/README.md#azure-form-recognizer-client-library-samples-for-java) 
 
-- Use **Form Recognizer** to automate a paper based process using the [**New patient registration with Form Recognizer workshop**](https://newpatiente2e.github.io/docs/). ([**Code Sample**](https://github.com/newpatiente2e/Contoso-New-Patient-App)) 
+- Use Form Recognizer to automate a paper based process using the [New patient registration with Form Recognizer workshop](https://newpatiente2e.github.io/docs/). ([Code](https://github.com/newpatiente2e/Contoso-New-Patient-App)) 
 
 - Metrics Advisor SDK samples in [Python](https://learn.microsoft.com/en-us/samples/azure/azure-sdk-for-python/metricsadvisor-samples/), [.NET](https://learn.microsoft.com/en-us/samples/azure/azure-sdk-for-net/azure-metrics-advisor-client-sdk-samples/), [TypeScript](https://learn.microsoft.com/en-us/samples/azure/azure-sdk-for-js/ai-metrics-advisor-typescript/), [JavaScript](https://learn.microsoft.com/en-us/samples/azure/azure-sdk-for-js/ai-metrics-advisor-javascript/) and [Java](https://learn.microsoft.com/en-us/samples/azure/azure-sdk-for-java/metricsadvisor-java-samples/)
 
