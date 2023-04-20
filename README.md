@@ -5,27 +5,39 @@ Head over to the [Discussions](https://aka.ms/azai) tab and introduce yourself, 
 
 ## OpenAI (Python)
 
+- [Completions](https://github.com/openai/openai-cookbook/blob/main/examples/azure/completions.ipynb)
+
+- [Chat completions](https://github.com/openai/openai-cookbook/blob/main/examples/azure/chat.ipynb)
+
 - [ChatGPT with your own data using Search](https://github.com/Azure-Samples/azure-search-openai-demo)
+
+- [Azure add-on for Python example](https://github.com/johanste/easyaz)
+
+- [Vector Embeddings based Q&A app using Redis](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna) 
 
 - [Use Speech to converse with OpenAI](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/openai-speech?tabs=windows)
 
 - [Deploy a model and generate text](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/quickstart?pivots=programming-language-python)
 
-- [Using the ChatGPT API](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/chatgpt-quickstart?tabs=command-line&pivots=programming-language-python)
-
-- [Managing ChatGPT conversations](https://github.com/Azure/openai-samples/blob/main/ChatGPT/chatGPT_managing_conversation.ipynb)
-
-- [Completions](https://github.com/openai/openai-cookbook/blob/main/examples/azure/completions.ipynb)
-
 - [Embeddings](https://github.com/openai/openai-cookbook/blob/main/examples/azure/embeddings.ipynb)
 
-- [Finetuning showing optional Active Directory Authentication](https://github.com/openai/openai-cookbook/blob/main/examples/azure/finetuning.ipynb)
+- [Finetuning](https://github.com/openai/openai-cookbook/blob/main/examples/azure/finetuning.ipynb)
 
 ## OpenAI (.NET)
 
-- [Completions](https://github.com/Azure/azure-sdk-for-net/blob/Azure.AI.OpenAI_1.0.0-beta.4/sdk/openai/Azure.AI.OpenAI/tests/Samples/Sample01_Chatbot.cs)
+- [Completions](https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/openai/Azure.AI.OpenAI/tests/Samples/Sample01_Chatbot.cs)
 
-- [Summarize Text](https://github.com/Azure/azure-sdk-for-net/blob/Azure.AI.OpenAI_1.0.0-beta.4/sdk/openai/Azure.AI.OpenAI/tests/Samples/Sample03_SummarizeText.cs)
+- [Streaming chat app](https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/openai/Azure.AI.OpenAI/tests/Samples/Sample04_StreamingChat.cs)
+
+- [MAUI chat app example](https://github.com/jpalvarezl/WhatsForDinner) 
+
+- [Summarize Text](https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/openai/Azure.AI.OpenAI/tests/Samples/Sample03_SummarizeText.cs)
+
+## LLM App Frameworks 
+
+- [Semantic Kernel](https://github.com/microsoft/semantic-kernel) 
+
+- [Jarvis/HuggingGPT](https://github.com/microsoft/JARVIS)
 
 ## Speech/Vision
 
