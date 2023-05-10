@@ -4,11 +4,13 @@ Welcome to a hub for the Azure AI developer community! You are an Azure AI devel
 Head over to the [Discussions](https://aka.ms/azai) tab and introduce yourself, start a new topic or jump in to an existing one. Alternately, dig into the below samples, then come back to our discussions and let us know what you think. This is a brand new hub and we welcome contributions, feedback and what else you would like to see here.
 
 ## OpenAI (Python)
-- ✨[OpenAI SDK for Python](https://pypi.org/project/openai/)
+- [OpenAI SDK for Python](https://pypi.org/project/openai/)
+
+- ✨[ChatGPT QuickStart](https://github.com/Azure-Samples/chatgpt-quickstart)
 
 - [Completions](https://github.com/openai/openai-cookbook/blob/main/examples/azure/completions.ipynb)
 
-- ✨[Chat completions](https://github.com/openai/openai-cookbook/blob/main/examples/azure/chat.ipynb)
+- [Chat completions](https://github.com/openai/openai-cookbook/blob/main/examples/azure/chat.ipynb)
 
 - [ChatGPT with your own data using Search](https://github.com/Azure-Samples/azure-search-openai-demo)
 
