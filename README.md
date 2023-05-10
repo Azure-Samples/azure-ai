@@ -4,10 +4,11 @@ Welcome to a hub for the Azure AI developer community! You are an Azure AI devel
 Head over to the [Discussions](https://aka.ms/azai) tab and introduce yourself, start a new topic or jump in to an existing one. Alternately, dig into the below samples, then come back to our discussions and let us know what you think. This is a brand new hub and we welcome contributions, feedback and what else you would like to see here.
 
 ## OpenAI (Python)
+- ✨[OpenAI SDK for Python](https://pypi.org/project/openai/)
 
 - [Completions](https://github.com/openai/openai-cookbook/blob/main/examples/azure/completions.ipynb)
 
-- [Chat completions](https://github.com/openai/openai-cookbook/blob/main/examples/azure/chat.ipynb)
+- ✨[Chat completions](https://github.com/openai/openai-cookbook/blob/main/examples/azure/chat.ipynb)
 
 - [ChatGPT with your own data using Search](https://github.com/Azure-Samples/azure-search-openai-demo)
 
@@ -23,15 +24,21 @@ Head over to the [Discussions](https://aka.ms/azai) tab and introduce yourself, 
 
 - [Finetuning](https://github.com/openai/openai-cookbook/blob/main/examples/azure/finetuning.ipynb)
 
+- ✨[More Samples](https://github.com/Azure-Samples/openai/blob/main/README.md)
+
 ## OpenAI (.NET)
+
+- ✨[Azure OpenAI SDK for .NET](https://www.nuget.org/packages/Azure.AI.OpenAI)
 
 - [Completions](https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/openai/Azure.AI.OpenAI/tests/Samples/Sample01_Chatbot.cs)
 
-- [Streaming chat app](https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/openai/Azure.AI.OpenAI/tests/Samples/Sample04_StreamingChat.cs)
+- ✨[Streaming chat app](https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/openai/Azure.AI.OpenAI/tests/Samples/Sample04_StreamingChat.cs)
 
 - [MAUI chat app example](https://github.com/jpalvarezl/WhatsForDinner) 
 
 - [Summarize Text](https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/openai/Azure.AI.OpenAI/tests/Samples/Sample03_SummarizeText.cs)
+
+- ✨[More Samples](https://github.com/Azure-Samples/openai-dotnet-samples/blob/main/README.md)
 
 ## LLM App Frameworks 
 
