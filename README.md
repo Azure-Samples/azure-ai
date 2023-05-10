@@ -8,7 +8,7 @@ Head over to the [Discussions](https://aka.ms/azai) tab and introduce yourself, 
 
 - ✨[ChatGPT QuickStart](https://github.com/Azure-Samples/chatgpt-quickstart)
 
-- ✨[How to switch between OpenAI and Azure OpenAI endpoints](https://gist.github.com/kristapratico/f24d17cc1fbae515ffcc1d6694dbd862)
+- ✨[How to switch from OpenAI to Azure](https://gist.github.com/kristapratico/f24d17cc1fbae515ffcc1d6694dbd862)
 
 - [Completions](https://github.com/openai/openai-cookbook/blob/main/examples/azure/completions.ipynb)
 
