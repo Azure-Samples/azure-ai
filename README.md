@@ -44,12 +44,6 @@ Head over to the [Discussions](https://aka.ms/azai) tab and introduce yourself, 
 
 - ✨[More Samples](https://github.com/Azure-Samples/openai-dotnet-samples/blob/main/README.md)
 
-## LLM App Frameworks 
-
-- [Semantic Kernel](https://github.com/microsoft/semantic-kernel) 
-
-- [Jarvis/HuggingGPT](https://github.com/microsoft/JARVIS)
-
 ## Speech/Vision
 
 - [Captioning and Call Center Transcription in Python, .NET, JavaScript, Java, C++ and Go ](https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/scenarios)
