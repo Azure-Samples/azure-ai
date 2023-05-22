@@ -13,7 +13,9 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [Switch from OpenAI to Azure OpenAI](https://aka.ms/azai/oai-to-aoai)✨
 
-- [Azure OpenAI SDK for .NET](https://aka.ms/azai/dotnet)✨
+- [OpenAI SDK for Python with Azure support](#openai-python)✨
+
+- [Azure OpenAI SDK for .NET](#openai-net)✨
 
 - [Azure OpenAI SDK for JavaScript](https://aka.ms/oai/js)🆕
 
