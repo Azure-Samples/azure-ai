@@ -1,7 +1,7 @@
 # Azure AI Hub
 Welcome to a hub for the Azure AI developer community! This readme includes links to a curated list of the official Microsoft SDKs, Samples and other guidance around Azure OpenAI and other Cognitive Services. The [Discussions](https://github.com/Azure-Samples/azure-ai/discussions) tab is an opportunity for you to talk directly to the Microsoft Product teams working on Azure AI and share/learn from other developers like yourself. 
 
-## Latest OpenAI Code behind Microsoft Build 2023 Keynote and Session demos ✨🆕
+## Recently added/updated  ✨🆕
 
 - [ChatGPT App](https://aka.ms/azai/chat)🆕
 
