@@ -70,16 +70,22 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [More Samples](https://github.com/Azure-Samples/openai-dotnet-samples/blob/main/README.md)
 
-## OpenAI (JavaScript)🆕
+## OpenAI (JavaScript)
 
 - [Azure OpenAI SDK for JavaScript](https://aka.ms/oai/js)🆕
 
 - [@azure/openai npm package](https://aka.ms/oai/js/npm)🆕
 
+- [Completions](https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/openai/openai/samples/v1-beta/javascript/completions.js)
 
-## OpenAI (Java)🆕
+- [Chat Completions](https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/openai/openai/samples/v1-beta/javascript/chatCompletions.js)
 
-- [Azure OpenAI SDK for JavaScript](https://aka.ms/oai/java)🆕
+- [More Samples](https://aka.ms/oai/js/samples)
+
+
+## OpenAI (Java)
+
+- [Azure OpenAI SDK for Java](https://aka.ms/oai/java)🆕
 
 ## Speech/Vision
 
