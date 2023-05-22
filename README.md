@@ -11,7 +11,7 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [ChatGPT .NET App with your own data](https://aka.ms/azai/dotnet/chatwithdata)🆕
 
-- [OpenAI SDK for Python with Azure](https://aka.ms/azai/oai-to-aoai)✨
+- [Switch from OpenAI to Azure OpenAI](https://aka.ms/azai/oai-to-aoai)✨
 
 - [Azure OpenAI SDK for .NET](https://aka.ms/azai/dotnet)✨
 
@@ -23,9 +23,9 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
  
 ## OpenAI (Python)
 
-- [ChatGPT App](https://aka.ms/azai/chat)🆕
+- [ChatGPT Python QuickStart](https://aka.ms/azai/chat)🆕
 
-- [ChatGPT Plugin](https://aka.ms/azai/plugin)🆕
+- [ChatGPT Python Plugin QuickStart](https://aka.ms/azai/plugin)🆕
 
 - [ChatGPT Python App with your own data](https://aka.ms/azai/chatwithdata)✨
 
