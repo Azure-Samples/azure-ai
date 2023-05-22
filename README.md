@@ -17,9 +17,9 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [Azure OpenAI SDK for .NET](#openai-net)✨
 
-- [Azure OpenAI SDK for JavaScript](https://aka.ms/oai/js)🆕
+- [Azure OpenAI SDK for JavaScript](#openai-javascript)🆕
 
-- [Azure OpenAI SDK for Java](https://aka.ms/oai/java)🆕
+- [Azure OpenAI SDK for Java](#openai-java)🆕
 
 - [ChatGPT Python Web App from Azure OpenAI](https://aka.ms/azai/chat-from-aoai)🆕
  
@@ -54,7 +54,9 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 ## OpenAI (.NET)
 
-- [Azure OpenAI SDK for .NET](https://aka.ms/azai/dotnet)✨
+- [Azure OpenAI SDK for .NET](https://aka.ms/oai/net)✨
+
+- [Azure.AI.OpenAI NuGet package](https://aka.ms/oai/net/nuget)✨
 
 - [ChatGPT .NET App with your own data](https://aka.ms/azai/dotnet/chatwithdata)🆕
 
@@ -67,6 +69,17 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 - [Summarize Text](https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/openai/Azure.AI.OpenAI/tests/Samples/Sample03_SummarizeText.cs)
 
 - [More Samples](https://github.com/Azure-Samples/openai-dotnet-samples/blob/main/README.md)
+
+## OpenAI (JavaScript)🆕
+
+- [Azure OpenAI SDK for JavaScript](https://aka.ms/oai/js)🆕
+
+- [@azure/openai npm package](https://aka.ms/oai/js/npm)🆕
+
+
+## OpenAI (Java)🆕
+
+- [Azure OpenAI SDK for JavaScript](https://aka.ms/oai/java)🆕
 
 ## Speech/Vision
 
