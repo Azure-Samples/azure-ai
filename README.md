@@ -92,11 +92,11 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [Azure OpenAI SDK for Java](https://aka.ms/oai/java)🆕
 
-- [Completions](https://github.com/Azure/azure-sdk-for-java/blob/azure-ai-openai_1.0.0-beta.1/sdk/openai/azure-ai-openai/src/samples/java/com/azure/ai/openai/ChatbotSample.java)
+- [Completions](https://github.com/Azure/azure-sdk-for-java/blob/azure-ai-openai_1.0.0-beta.1/sdk/openai/azure-ai-openai/src/samples/java/com/azure/ai/openai/ChatbotSample.java)🆕
 
-- [Streaming Chat Completions](https://github.com/Azure/azure-sdk-for-java/blob/azure-ai-openai_1.0.0-beta.1/sdk/openai/azure-ai-openai/src/samples/java/com/azure/ai/openai/StreamingChatSample.java)
+- [Streaming Chat Completions](https://github.com/Azure/azure-sdk-for-java/blob/azure-ai-openai_1.0.0-beta.1/sdk/openai/azure-ai-openai/src/samples/java/com/azure/ai/openai/StreamingChatSample.java)🆕
 
-- [More Samples](https://aka.ms/oai/java/samples)
+- [More Samples](https://aka.ms/oai/java/samples)🆕
 
 ## Speech/Vision
 
