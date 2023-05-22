@@ -1,8 +1,25 @@
 # Azure AI Hub
-Welcome to a hub for the Azure AI developer community! You are an Azure AI developer if you integrate or want to integrate Azure AI into your apps using Cognitive Services like OpenAI, Speech, Text Analytics, Form Recognizer, etc. This readme includes links to a curated list of samples in different programming languages that use Azure AI SDKs (client libraries). The [Discussions](https://aka.ms/azai) tab is an opportunity for you to talk directly to the Microsoft product teams working on Azure AI services and others like yourselves looking to develop solutions with Azure AI. 
+Welcome to a hub for the Azure AI developer community! This readme includes links to a curated list of the official Microsoft SDKs, Samples and other guidance around Azure OpenAI and other Cognitive Services. The [Discussions](https://github.com/Azure-Samples/azure-ai/discussions) tab is an opportunity for you to talk directly to the Microsoft Product teams working on Azure AI and share/learn from other developers like yourself. 
 
-Head over to the [Discussions](https://aka.ms/azai) tab and introduce yourself, start a new topic or jump in to an existing one. Alternately, dig into the below samples, then come back to our discussions and let us know what you think. This is a brand new hub and we welcome contributions, feedback and what else you would like to see here.
+## Latest OpenAI Code behind Microsoft Build 2023 Keynotes and Sessions ✨🆕
+- [ChatGPT App](https://aka.ms/azai/chat)🆕
 
+- [ChatGPT Plugin](https://aka.ms/azai/plugin)🆕
+
+- [ChatGPT Python App with your own data](https://aka.ms/azai/chatwithdata)✨
+
+- [Switch from OpenAI to Azure](https://aka.ms/azai/oai-to-aoai)✨
+
+- [ChatGPT .NET App with your own data](https://aka.ms/azai/dotnet/chatwithdata)🆕
+
+- [Azure OpenAI SDK for .NET](https://aka.ms/azai/dotnet)✨
+
+- [Azure OpenAI Chat Web App](https://github.com/microsoft/sample-app-aoai-chatGPT)🆕
+
+- [[COMING SOON] Azure OpenAI SDK for JavaScript/TypeScript]()
+
+- [[COMING SOON] Azure OpenAI SDK for Java]()
+ 
 ## OpenAI (Python)
 - [OpenAI SDK for Python](https://pypi.org/project/openai/)
 
