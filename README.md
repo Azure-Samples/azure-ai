@@ -17,7 +17,7 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [Azure OpenAI SDK for JavaScript/TypeScript](https://aka.ms/azai/js)🆕
 
-- [Azure OpenAI SDK for Java](https://aka.ms/azai/java)🆕
+- [Azure OpenAI SDK for Java](https://aka.ms/oai/java)🆕
 
 - [ChatGPT Python Web App from Azure OpenAI](https://aka.ms/azai/chat-from-aoai)🆕
  
