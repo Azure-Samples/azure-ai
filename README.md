@@ -7,7 +7,7 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [ChatGPT Plugin](https://aka.ms/azai/plugin)🆕
 
-- [ChatGPT App with your own data](https://aka.ms/azai/chatwithdata)✨
+- [ChatGPT Python App with your own data](https://aka.ms/azai/chatwithdata)✨
 
 - [ChatGPT .NET App with your own data](https://aka.ms/azai/dotnet/chatwithdata)🆕
 
