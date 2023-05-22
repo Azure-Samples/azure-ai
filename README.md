@@ -25,15 +25,15 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
  
 ## OpenAI for Python Developers
 
-- [Switch from OpenAI to Azure OpenAI](https://aka.ms/azai/oai-to-aoai)✨
-
 - [OpenAI SDK for Python](https://github.com/openai/openai-python/blob/main/README.md)
 
 - [openai Python Package](https://pypi.org/project/openai/)
 
 - [Completions](https://github.com/openai/openai-cookbook/blob/main/examples/azure/completions.ipynb)
 
-- [Chat completions](https://github.com/openai/openai-cookbook/blob/main/examples/azure/chat.ipynb)
+- [Streaming Chat completions](https://github.com/openai/openai-cookbook/blob/main/examples/azure/chat.ipynb)
+
+- [Switch from OpenAI to Azure OpenAI](https://aka.ms/azai/oai-to-aoai)✨
 
 - [ChatGPT Python App](https://aka.ms/azai/chat)🆕
 
