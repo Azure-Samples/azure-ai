@@ -13,17 +13,17 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [Switch from OpenAI to Azure OpenAI](https://aka.ms/azai/oai-to-aoai)✨
 
-- [OpenAI SDK for Python with Azure support](#openai-python)✨
+- [OpenAI for Python Developers](#openai-for-python-developers)✨
 
-- [Azure OpenAI SDK for .NET](#openai-net)✨
+- [OpenAI for .NET Developers](#openai-for-net-developers)✨
 
-- [Azure OpenAI SDK for JavaScript](#openai-javascript)🆕
+- [OpenAI for JavaScript Developers](#openai-for-javascript-developers)🆕
 
-- [Azure OpenAI SDK for Java](#openai-java)🆕
+- [OpenAI for Java Developers](#openai-for-java-developers)🆕
 
 - [ChatGPT from Azure OpenAI](https://aka.ms/azai/chat-from-aoai)🆕
  
-## OpenAI (Python)
+## OpenAI for Python Developers
 
 - [Switch from OpenAI to Azure OpenAI](https://aka.ms/azai/oai-to-aoai)✨
 
@@ -56,7 +56,7 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 - [More Samples](https://github.com/Azure-Samples/openai/blob/main/README.md) 
 
 
-## OpenAI (.NET)
+## OpenAI for .NET Developers
 
 - [Azure OpenAI SDK for .NET](https://aka.ms/oai/net)✨
 
@@ -75,7 +75,7 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 - [More Samples](https://github.com/Azure-Samples/openai-dotnet-samples/blob/main/README.md)
 
 
-## OpenAI (JavaScript)
+## OpenAI for JavaScript Developers
 
 - [Azure OpenAI SDK for JavaScript](https://aka.ms/oai/js)🆕
 
@@ -88,7 +88,7 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 - [More Samples](https://aka.ms/oai/js/samples)🆕
 
 
-## OpenAI (Java)
+## OpenAI for Java Developers
 
 - [Azure OpenAI SDK for Java](https://aka.ms/oai/java)🆕
 
