@@ -5,7 +5,7 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [ChatGPT Python App](https://aka.ms/azai/chat)🆕
 
-- [ChatGPT Python Plugin Authoring](https://aka.ms/azai/plugin)🆕
+- [ChatGPT Python Plugin App Authoring](https://aka.ms/azai/plugin)🆕
 
 - [ChatGPT Python App with your own data](https://aka.ms/azai/chatwithdata)✨
 
@@ -21,7 +21,7 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [Azure OpenAI SDK for Java](#openai-java)🆕
 
-- [ChatGPT Python Web App from Azure OpenAI](https://aka.ms/azai/chat-from-aoai)🆕
+- [ChatGPT from Azure OpenAI](https://aka.ms/azai/chat-from-aoai)🆕
  
 ## OpenAI (Python)
 
@@ -37,13 +37,13 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [ChatGPT Python App](https://aka.ms/azai/chat)🆕
 
-- [ChatGPT Python Plugin Authoring](https://aka.ms/azai/plugin)🆕
+- [ChatGPT Python Plugin App Authoring](https://aka.ms/azai/plugin)🆕
 
 - [ChatGPT Python App with your own data](https://aka.ms/azai/chatwithdata)✨
 
 - [Azure companion for Python experiment](https://github.com/johanste/easyaz)
 
-- [Vector Embeddings based Q&A app using Redis](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna) 
+- [Vector Embeddings based Q&A App using Redis](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna) 
 
 - [Use Speech to converse with OpenAI](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/openai-speech?tabs=windows)
 
