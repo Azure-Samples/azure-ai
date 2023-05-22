@@ -1,39 +1,43 @@
 # Azure AI Hub
 Welcome to a hub for the Azure AI developer community! This readme includes links to a curated list of the official Microsoft SDKs, Samples and other guidance around Azure OpenAI and other Cognitive Services. The [Discussions](https://github.com/Azure-Samples/azure-ai/discussions) tab is an opportunity for you to talk directly to the Microsoft Product teams working on Azure AI and share/learn from other developers like yourself. 
 
-## Latest OpenAI Code behind Microsoft Build 2023 Keynotes and Sessions ✨🆕
+## Latest OpenAI Code behind Microsoft Build 2023 Keynote and Session demos ✨🆕
+
+- [ChatGPT App](https://aka.ms/azai/chat)🆕
+
+- [ChatGPT Plugin](https://aka.ms/azai/plugin)🆕
+
+- [ChatGPT App with your own data](https://aka.ms/azai/chatwithdata)✨
+
+- [ChatGPT .NET App with your own data](https://aka.ms/azai/dotnet/chatwithdata)🆕
+
+- [Switch from OpenAI to Azure OpenAI](https://aka.ms/azai/oai-to-aoai)✨
+
+- [Azure OpenAI SDK for .NET](https://aka.ms/azai/dotnet)✨
+
+- [Azure OpenAI SDK for JavaScript/TypeScript](https://aka.ms/azai/js)🆕
+
+- [Azure OpenAI SDK for Java](https://aka.ms/azai/java)🆕
+
+- [ChatGPT Web App from Azure OpenAI](https://aka.ms/azai/chat-from-aoai)🆕
+ 
+## OpenAI (Python)
+
 - [ChatGPT App](https://aka.ms/azai/chat)🆕
 
 - [ChatGPT Plugin](https://aka.ms/azai/plugin)🆕
 
 - [ChatGPT Python App with your own data](https://aka.ms/azai/chatwithdata)✨
 
-- [Switch from OpenAI to Azure](https://aka.ms/azai/oai-to-aoai)✨
-
-- [ChatGPT .NET App with your own data](https://aka.ms/azai/dotnet/chatwithdata)🆕
-
-- [Azure OpenAI SDK for .NET](https://aka.ms/azai/dotnet)✨
-
-- [Azure OpenAI Chat Web App](https://github.com/microsoft/sample-app-aoai-chatGPT)🆕
-
-- [[COMING SOON] Azure OpenAI SDK for JavaScript/TypeScript]()
-
-- [[COMING SOON] Azure OpenAI SDK for Java]()
- 
-## OpenAI (Python)
-- [OpenAI SDK for Python](https://pypi.org/project/openai/)
-
-- ✨[ChatGPT QuickStart](https://github.com/Azure-Samples/chatgpt-quickstart)
-
-- ✨[How to switch from OpenAI to Azure](https://gist.github.com/kristapratico/f24d17cc1fbae515ffcc1d6694dbd862)
+- [Switch from OpenAI to Azure OpenAI](https://aka.ms/azai/oai-to-aoai)✨
 
 - [Completions](https://github.com/openai/openai-cookbook/blob/main/examples/azure/completions.ipynb)
 
 - [Chat completions](https://github.com/openai/openai-cookbook/blob/main/examples/azure/chat.ipynb)
 
-- [ChatGPT with your own data using Search](https://github.com/Azure-Samples/azure-search-openai-demo)
+- [Official Azure OpenAI Samples](https://github.com/Azure-Samples/openai/blob/main/README.md) 
 
-- [Azure add-on for Python example](https://github.com/johanste/easyaz)
+- [Azure companion for Python experiment](https://github.com/johanste/easyaz)
 
 - [Vector Embeddings based Q&A app using Redis](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna) 
 
@@ -45,21 +49,22 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [Finetuning](https://github.com/openai/openai-cookbook/blob/main/examples/azure/finetuning.ipynb)
 
-- ✨[More Samples](https://github.com/Azure-Samples/openai/blob/main/README.md)
 
 ## OpenAI (.NET)
 
-- ✨[Azure OpenAI SDK for .NET](https://www.nuget.org/packages/Azure.AI.OpenAI)
+- [Azure OpenAI SDK for .NET](https://aka.ms/azai/dotnet)✨
+
+- [ChatGPT .NET App with your own data](https://aka.ms/azai/dotnet/chatwithdata)🆕
 
 - [Completions](https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/openai/Azure.AI.OpenAI/tests/Samples/Sample01_Chatbot.cs)
 
-- ✨[Streaming chat app](https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/openai/Azure.AI.OpenAI/tests/Samples/Sample04_StreamingChat.cs)
+- [Streaming chat app](https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/openai/Azure.AI.OpenAI/tests/Samples/Sample04_StreamingChat.cs)✨
 
 - [MAUI chat app example](https://github.com/jpalvarezl/WhatsForDinner) 
 
 - [Summarize Text](https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/openai/Azure.AI.OpenAI/tests/Samples/Sample03_SummarizeText.cs)
 
-- ✨[More Samples](https://github.com/Azure-Samples/openai-dotnet-samples/blob/main/README.md)
+- [More Samples](https://github.com/Azure-Samples/openai-dotnet-samples/blob/main/README.md)
 
 ## Speech/Vision
 
