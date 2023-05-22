@@ -3,9 +3,9 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 ## Recently added/updated  ✨🆕
 
-- [ChatGPT Python QuickStart](https://aka.ms/azai/chat)🆕
+- [ChatGPT Python App](https://aka.ms/azai/chat)🆕
 
-- [ChatGPT Python Plugin QuickStart](https://aka.ms/azai/plugin)🆕
+- [ChatGPT Python Plugin Authoring](https://aka.ms/azai/plugin)🆕
 
 - [ChatGPT Python App with your own data](https://aka.ms/azai/chatwithdata)✨
 
@@ -25,19 +25,21 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
  
 ## OpenAI (Python)
 
-- [ChatGPT Python QuickStart](https://aka.ms/azai/chat)🆕
-
-- [ChatGPT Python Plugin QuickStart](https://aka.ms/azai/plugin)🆕
-
-- [ChatGPT Python App with your own data](https://aka.ms/azai/chatwithdata)✨
-
 - [Switch from OpenAI to Azure OpenAI](https://aka.ms/azai/oai-to-aoai)✨
+
+- [OpenAI SDK for Python](https://github.com/openai/openai-python/blob/main/README.md)
+
+- [openai Python Package](https://pypi.org/project/openai/)
 
 - [Completions](https://github.com/openai/openai-cookbook/blob/main/examples/azure/completions.ipynb)
 
 - [Chat completions](https://github.com/openai/openai-cookbook/blob/main/examples/azure/chat.ipynb)
 
-- [Official Azure OpenAI Samples](https://github.com/Azure-Samples/openai/blob/main/README.md) 
+- [ChatGPT Python App](https://aka.ms/azai/chat)🆕
+
+- [ChatGPT Python Plugin Authoring](https://aka.ms/azai/plugin)🆕
+
+- [ChatGPT Python App with your own data](https://aka.ms/azai/chatwithdata)✨
 
 - [Azure companion for Python experiment](https://github.com/johanste/easyaz)
 
@@ -51,6 +53,8 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [Finetuning](https://github.com/openai/openai-cookbook/blob/main/examples/azure/finetuning.ipynb)
 
+- [More Samples](https://github.com/Azure-Samples/openai/blob/main/README.md) 
+
 
 ## OpenAI (.NET)
 
@@ -58,17 +62,18 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [Azure.AI.OpenAI NuGet package](https://aka.ms/oai/net/nuget)✨
 
-- [ChatGPT .NET App with your own data](https://aka.ms/azai/dotnet/chatwithdata)🆕
-
 - [Completions](https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/openai/Azure.AI.OpenAI/tests/Samples/Sample01_Chatbot.cs)
 
-- [Streaming chat app](https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/openai/Azure.AI.OpenAI/tests/Samples/Sample04_StreamingChat.cs)✨
-
-- [MAUI chat app example](https://github.com/jpalvarezl/WhatsForDinner) 
+- [Streaming Chat Completions](https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/openai/Azure.AI.OpenAI/tests/Samples/Sample04_StreamingChat.cs)✨
 
 - [Summarize Text](https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/openai/Azure.AI.OpenAI/tests/Samples/Sample03_SummarizeText.cs)
 
+- [ChatGPT .NET App with your own data](https://aka.ms/azai/dotnet/chatwithdata)🆕
+
+- [MAUI chat app example](https://github.com/jpalvarezl/WhatsForDinner) 
+
 - [More Samples](https://github.com/Azure-Samples/openai-dotnet-samples/blob/main/README.md)
+
 
 ## OpenAI (JavaScript)
 
@@ -76,16 +81,22 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [@azure/openai npm package](https://aka.ms/oai/js/npm)🆕
 
-- [Completions](https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/openai/openai/samples/v1-beta/javascript/completions.js)
+- [Completions](https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/openai/openai/samples/v1-beta/javascript/completions.js)🆕
 
-- [Chat Completions](https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/openai/openai/samples/v1-beta/javascript/chatCompletions.js)
+- [Streaming Chat Completions](https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/openai/openai/samples/v1-beta/javascript/chatCompletions.js)🆕
 
-- [More Samples](https://aka.ms/oai/js/samples)
+- [More Samples](https://aka.ms/oai/js/samples)🆕
 
 
 ## OpenAI (Java)
 
 - [Azure OpenAI SDK for Java](https://aka.ms/oai/java)🆕
+
+- [Completions](https://github.com/Azure/azure-sdk-for-java/blob/azure-ai-openai_1.0.0-beta.1/sdk/openai/azure-ai-openai/src/samples/java/com/azure/ai/openai/ChatbotSample.java)
+
+- [Streaming Chat Completions](https://github.com/Azure/azure-sdk-for-java/blob/azure-ai-openai_1.0.0-beta.1/sdk/openai/azure-ai-openai/src/samples/java/com/azure/ai/openai/StreamingChatSample.java)
+
+- [More Samples](https://aka.ms/oai/java/samples)
 
 ## Speech/Vision
 
