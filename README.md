@@ -77,7 +77,7 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 ## OpenAI for JavaScript Developers
 
-- [Azure OpenAI SDK for JavaScript](https://aka.ms/oai/js)🆕
+- [Azure OpenAI SDK for JavaScript](https://aka.ms/oai/js/sdk)🆕
 
 - [@azure/openai npm package](https://aka.ms/oai/js/npm)🆕
 
