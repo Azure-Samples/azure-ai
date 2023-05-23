@@ -90,7 +90,7 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 ## OpenAI for Java Developers
 
-- [Azure OpenAI SDK for Java](https://aka.ms/oai/java)🆕
+- [Azure OpenAI SDK for Java](https://aka.ms/oai/java/sdk)🆕
 
 - [azure.ai.openai maven package](https://aka.ms/oai/java/maven)🆕
 
