@@ -58,7 +58,7 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 ## OpenAI for .NET Developers
 
-- [Azure OpenAI SDK for .NET](https://aka.ms/oai/net)✨
+- [Azure OpenAI SDK for .NET](https://aka.ms/oai/net/sdk)✨
 
 - [Azure.AI.OpenAI NuGet package](https://aka.ms/oai/net/nuget)✨
 
