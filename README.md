@@ -22,6 +22,8 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 - [OpenAI for Java Developers](#openai-for-java-developers)🆕
 
 - [ChatGPT from Azure OpenAI](https://aka.ms/azai/chat-from-aoai)🆕
+
+- [Azure Content Safety SDK for Python](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/contentsafety/azure-ai-contentsafety)🆕
  
 ## OpenAI for Python Developers
 
@@ -40,6 +42,8 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 - [ChatGPT Python Plugin App Authoring](https://aka.ms/azai/plugin)🆕
 
 - [ChatGPT Python App with your own data](https://aka.ms/azai/chatwithdata)✨
+
+- [Azure Content Safety SDK for Python](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/contentsafety/azure-ai-contentsafety)🆕
 
 - [Azure companion for Python experiment](https://github.com/johanste/easyaz)
 
