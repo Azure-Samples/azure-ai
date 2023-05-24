@@ -29,9 +29,9 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [Azure OpenAI Terraform Module](https://registry.terraform.io/modules/Azure/openai/azurerm/latest)🆕
 
-- [ChatGPT .NET App with chats saved to CosmosDB](https://github.com/Azure-Samples/cosmosdb-chatgpt)🆕
+- [ChatGPT Python App with Azure Functions using LangChain](https://github.com/Azure-Samples/function-python-ai-langchain)🆕
 
-- [Azure OpenAI with Azure Functions and LangChain](https://github.com/Azure-Samples/function-python-ai-langchain)🆕
+- [ChatGPT .NET App with chats saved to CosmosDB](https://github.com/Azure-Samples/cosmosdb-chatgpt)🆕
 
 - [More Azure OpenAI resources](#more-openai-resources)🆕
  
