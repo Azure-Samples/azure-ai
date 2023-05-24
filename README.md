@@ -25,6 +25,8 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [Azure AI Content Safety SDK for Python](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/contentsafety/azure-ai-contentsafety)🆕
 
+- [LangChain with Azure Functions](https://github.com/paulyuk/functions/tree/main/ai/langchain/python)🆕
+
 - [ChatGPT .NET App with chats saved to CosmosDB](https://github.com/Azure-Samples/cosmosdb-chatgpt)🆕
 
 - [More OpenAI resources](#more-openai-resources)🆕
