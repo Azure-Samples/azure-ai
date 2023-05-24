@@ -25,6 +25,8 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [Azure AI Content Safety SDK for Python](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/contentsafety/azure-ai-contentsafety)🆕
 
+- [ChatGPT .NET App with chats saved to CosmosDB](https://github.com/Azure-Samples/cosmosdb-chatgpt)🆕
+
 - [More OpenAI resources](#more-openai-resources)🆕
  
 ## OpenAI for Python Developers
@@ -75,6 +77,8 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 - [Summarize Text](https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/openai/Azure.AI.OpenAI/tests/Samples/Sample03_SummarizeText.cs)
 
 - [ChatGPT .NET App with your own data](https://aka.ms/azai/dotnet/chatwithdata)🆕
+
+- [ChatGPT .NET App with chats saved to CosmosDB](https://github.com/Azure-Samples/cosmosdb-chatgpt)🆕
 
 - [MAUI chat app example](https://github.com/jpalvarezl/WhatsForDinner) 
 
