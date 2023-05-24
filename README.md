@@ -7,9 +7,9 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [ChatGPT Python Plugin App Authoring](https://aka.ms/azai/plugin)🆕
 
-- [ChatGPT Python App with your own data](https://aka.ms/azai/chatwithdata)✨
+- [ChatGPT Python App with your own data using Cognitive Search](https://aka.ms/azai/chatwithdata)✨
 
-- [ChatGPT .NET App with your own data](https://aka.ms/azai/dotnet/chatwithdata)🆕
+- [ChatGPT .NET App with your own data using Cognitive Search](https://aka.ms/azai/dotnet/chatwithdata)🆕
 
 - [Switch from OpenAI to Azure OpenAI](https://aka.ms/azai/oai-to-aoai)✨
 
@@ -23,11 +23,13 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [Azure AI Content Safety SDK for Python](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/contentsafety/azure-ai-contentsafety)🆕
 
-- [LangChain with Azure Functions](https://github.com/paulyuk/functions/tree/main/ai/langchain/python)🆕
+- [ChatGPT from Azure OpenAI](https://aka.ms/azai/chat-from-aoai)🆕
+
+- [OpenAI Terraform Module](https://registry.terraform.io/modules/Azure/openai/azurerm/latest)🆕
 
 - [ChatGPT .NET App with chats saved to CosmosDB](https://github.com/Azure-Samples/cosmosdb-chatgpt)🆕
 
-- [ChatGPT from Azure OpenAI](https://aka.ms/azai/chat-from-aoai)🆕
+- [LangChain with Azure Functions](https://github.com/paulyuk/functions/tree/main/ai/langchain/python)🆕
 
 - [More OpenAI resources](#more-openai-resources)🆕
  
