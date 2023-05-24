@@ -15,25 +15,25 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [Switch from OpenAI to Azure OpenAI](https://aka.ms/azai/oai-to-aoai)✨
 
-- [OpenAI for Python Developers](#openai-for-python-developers)✨
+- [Azure OpenAI for Python Developers](#openai-for-python-developers)✨
 
-- [OpenAI for .NET Developers](#openai-for-net-developers)✨
+- [Azure OpenAI for .NET Developers](#openai-for-net-developers)✨
 
-- [OpenAI for JavaScript Developers](#openai-for-javascript-developers)🆕
+- [Azure OpenAI for JavaScript Developers](#openai-for-javascript-developers)🆕
 
-- [OpenAI for Java Developers](#openai-for-java-developers)🆕
+- [Azure OpenAI for Java Developers](#openai-for-java-developers)🆕
 
 - [Azure AI Content Safety SDK for Python](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/contentsafety/azure-ai-contentsafety)🆕
 
 - [ChatGPT from Azure OpenAI](https://aka.ms/azai/chat-from-aoai)🆕
 
-- [OpenAI Terraform Module](https://registry.terraform.io/modules/Azure/openai/azurerm/latest)🆕
+- [Azure OpenAI Terraform Module](https://registry.terraform.io/modules/Azure/openai/azurerm/latest)🆕
 
 - [ChatGPT .NET App with chats saved to CosmosDB](https://github.com/Azure-Samples/cosmosdb-chatgpt)🆕
 
-- [LangChain with Azure Functions](https://github.com/paulyuk/functions/tree/main/ai/langchain/python)🆕
+- [Azure OpenAI with Azure Functions and LangChain](https://github.com/Azure-Samples/function-python-ai-langchain)🆕
 
-- [More OpenAI resources](#more-openai-resources)🆕
+- [More Azure OpenAI resources](#more-openai-resources)🆕
  
 ## OpenAI for Python Developers
 
