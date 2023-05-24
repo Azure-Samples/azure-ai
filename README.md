@@ -24,6 +24,8 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 - [ChatGPT from Azure OpenAI](https://aka.ms/azai/chat-from-aoai)🆕
 
 - [Azure AI Content Safety SDK for Python](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/contentsafety/azure-ai-contentsafety)🆕
+
+- [More OpenAI resources](#more-openai-resources)🆕
  
 ## OpenAI for Python Developers
 
@@ -47,7 +49,7 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [Azure companion for Python experiment](https://github.com/johanste/easyaz)
 
-- [Vector Embeddings based Q&A App using Redis](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna) 
+- [Vector Embeddings based Q&A App](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna) 
 
 - [Use Speech to converse with OpenAI](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/openai-speech?tabs=windows)
 
@@ -103,6 +105,18 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 - [Streaming Chat Completions](https://github.com/Azure/azure-sdk-for-java/blob/azure-ai-openai_1.0.0-beta.1/sdk/openai/azure-ai-openai/src/samples/java/com/azure/ai/openai/StreamingChatSample.java)🆕
 
 - [More Samples](https://aka.ms/oai/java/samples)🆕
+
+## More OpenAI Resources
+
+- [OpenAI with Azure Active Directory Role based access control](https://learn.microsoft.com/en-us/azure/cognitive-services/authentication?tabs=powershell#authenticate-with-azure-active-directory)
+
+- [OpenAI with Managed Identities](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/how-to/managed-identity)
+
+- [OpenAI Embeddings with Azure Cache for Redis Enterprise Tier with LlamaIndex](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/vector-similarity-search-with-azure-cache-for-redis-enterprise/ba-p/3822059)
+
+- [OpenAI Embeddings with Azure Database for PostgreSQL Flexible Server](https://learn.microsoft.com/en-us/azure/postgresql/flexible-server/how-to-use-pgvector)
+
+- [OpenAI Embeddings with Azure CosmosDB for MongoDBvCore](https://devblogs.microsoft.com/cosmosdb/introducing-vector-search-in-azure-cosmos-db-for-mongodb-vcore/)
 
 ## Speech/Vision
 
