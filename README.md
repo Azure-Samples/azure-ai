@@ -3,6 +3,8 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 ## Recently added/updated  ✨🆕
 
+- [ChatGPT QuickStarts for C#, Java, JavaScript and Python](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/chatgpt-quickstart?pivots=programming-language-csharp&tabs=command-line)🆕
+
 - [ChatGPT Python App](https://aka.ms/azai/chat)🆕
 
 - [ChatGPT Python Plugin App Authoring](https://aka.ms/azai/plugin)🆕
