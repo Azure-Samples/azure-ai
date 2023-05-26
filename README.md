@@ -1,40 +1,62 @@
 # Azure AI Hub
 Welcome to a hub for the Azure AI developer community! This readme includes links to a curated list of the official Microsoft SDKs, Samples and other guidance around Azure OpenAI and other Cognitive Services. The [Discussions](https://github.com/Azure-Samples/azure-ai/discussions) tab is an opportunity for you to talk directly to the Microsoft Product teams working on Azure AI and share/learn from other developers like yourself. 
 
-## Recently added/updated  ✨🆕
+## Table of Contents  ✨🆕
 
-- [ChatGPT QuickStarts for C#, Java, JavaScript and Python](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/chatgpt-quickstart?pivots=programming-language-csharp&tabs=command-line)🆕
+- [Getting started with Azure OpenAI ChatGPT Copilots in Python, .NET/C#, JavaScript/TypeScript and Java](#getting-started-with-azure-openai-chatgpt-copilots)🆕
 
-- [ChatGPT Python App](https://aka.ms/azai/chat)🆕
-
-- [ChatGPT Python Plugin App Authoring](https://aka.ms/azai/plugin)🆕
-
-- [ChatGPT Python App with your own data using Cognitive Search](https://aka.ms/azai/chatwithdata)✨
-
-- [ChatGPT .NET App with your own data using Cognitive Search](https://aka.ms/azai/dotnet/chatwithdata)🆕
-
-- [Switch from OpenAI to Azure OpenAI](https://aka.ms/azai/oai-to-aoai)✨
+- [Azure OpenAI ChatGPT Copilots With Your Own Data using Cognitive Search, MongoDB, Redis or PostgreSQL](#azure-openai-chatgpt-copilots-with-your-own-data)✨
 
 - [Azure OpenAI for Python Developers](#openai-for-python-developers)✨
 
-- [Azure OpenAI for .NET Developers](#openai-for-net-developers)✨
+- [Azure OpenAI for .NET/C# Developers](#openai-for-net-developers)✨
 
-- [Azure OpenAI for JavaScript Developers](#openai-for-javascript-developers)🆕
+- [Azure OpenAI for JavaScript/TypeScript Developers](#openai-for-javascript-developers)🆕
 
 - [Azure OpenAI for Java Developers](#openai-for-java-developers)🆕
 
-- [Azure AI Content Safety SDK for Python](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/contentsafety/azure-ai-contentsafety)🆕
+- [Secure your Azure AI Resources](#secure-your-azure-ai-resources)✨
 
-- [ChatGPT from Azure OpenAI](https://aka.ms/azai/chat-from-aoai)🆕
+- [Create and manage Azure AI Resources with code](#create-and-manage-azure-ai-resources-with-code)✨
 
-- [Azure OpenAI Terraform Module](https://registry.terraform.io/modules/Azure/openai/azurerm/latest)🆕
+- [Speech/Vision](#speechvision)
 
-- [ChatGPT Python App with Azure Functions using LangChain](https://github.com/Azure-Samples/function-python-ai-langchain)🆕
+- [Language](#language)
+
+- [Applied AI/Decision](#applied-aidecision)
+
+## Getting started with Azure OpenAI ChatGPT Copilots
+
+- [Simple Azure OpenAI ChatGPT Copilot in Python](https://aka.ms/azai/chat)🆕
+
+- [Simple ChatGPT Python Plugin App Authoring](https://aka.ms/azai/plugin)🆕
+
+- [ChatGPT QuickStarts for Python, C#, JavaScript and Java](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/chatgpt-quickstart?pivots=programming-language-csharp&tabs=command-line)🆕
+
+- [Switch from OpenAI to Azure OpenAI](https://aka.ms/azai/oai-to-aoai)✨
 
 - [ChatGPT .NET App with chats saved to CosmosDB](https://github.com/Azure-Samples/cosmosdb-chatgpt)🆕
 
-- [More Azure OpenAI resources](#more-openai-resources)🆕
- 
+- [ChatGPT Python App with Azure Functions using LangChain](https://github.com/Azure-Samples/function-python-ai-langchain)🆕
+
+- [More Azure OpenAI Service Docs](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/)
+
+
+## Azure OpenAI ChatGPT Copilots with your own data
+
+- [ChatGPT Python Copilot with your own data using Cognitive Search](https://aka.ms/azai/chatwithdata)✨
+
+- [ChatGPT .NET Copilot with your own data using Cognitive Search](https://aka.ms/azai/dotnet/chatwithdata)🆕
+
+- [ChatGPT .NET Copilot with your own data using MongoDB](https://github.com/AzureCosmosDB/VectorSearchAiAssistant/tree/MongovCore). [Blog](https://devblogs.microsoft.com/cosmosdb/introducing-vector-search-in-azure-cosmos-db-for-mongodb-vcore/)
+
+- [Code behind ChatGPT Web App from uploading your data to the Azure OpenAI Playground](https://aka.ms/azai/chat-from-aoai)🆕
+
+- [OpenAI Python Notebook with your own data using Redis with LlamaIndex](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/vector-similarity-search-with-azure-cache-for-redis-enterprise/ba-p/3822059)
+
+- [OpenAI solutions with your own data using PostgreSQL](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/unlocking-the-power-of-open-ai-and-pgvector-with-azure/ba-p/3828539)
+
+
 ## OpenAI for Python Developers
 
 - [OpenAI SDK for Python](https://github.com/openai/openai-python/blob/main/README.md)
@@ -116,19 +138,35 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [More Samples](https://aka.ms/oai/java/samples)🆕
 
-## More OpenAI Resources
+## Create and manage Azure AI Resources with code 
+
+- [Azure Developer CLI](https://azure.github.io/awesome-azd/?tags=openai)
+
+- [Azure CLI](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/how-to/create-resource)
+
+- [Bicep](https://learn.microsoft.com/en-us/azure/cognitive-services/create-account-bicep?tabs=CLI)
+
+- [Terraform](https://registry.terraform.io/modules/Azure/openai/azurerm/latest)
+
+- [Python](https://learn.microsoft.com/en-us/azure/cognitive-services/cognitive-services-apis-create-account-client-library?pivots=programming-language-python)
+
+- [.NET/C#](https://learn.microsoft.com/en-us/azure/cognitive-services/cognitive-services-apis-create-account-client-library?pivots=programming-language-csharp)
+
+- [JavaScript/TypeScript](https://learn.microsoft.com/en-us/azure/cognitive-services/cognitive-services-apis-create-account-client-library?pivots=programming-language-javascript)
+
+- [Java](https://learn.microsoft.com/en-us/azure/cognitive-services/cognitive-services-apis-create-account-client-library?pivots=programming-language-java)
+
+
+## Secure your Azure AI Resources
 
 - [OpenAI with Azure Active Directory Role based access control](https://learn.microsoft.com/en-us/azure/cognitive-services/authentication?tabs=powershell#authenticate-with-azure-active-directory)
 
 - [OpenAI with Managed Identities](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/how-to/managed-identity)
 
-- [OpenAI Embeddings with Azure Cache for Redis Enterprise Tier with LlamaIndex](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/vector-similarity-search-with-azure-cache-for-redis-enterprise/ba-p/3822059)
-
-- [OpenAI Embeddings with Azure Database for PostgreSQL Flexible Server](https://learn.microsoft.com/en-us/azure/postgresql/flexible-server/how-to-use-pgvector)
-
-- [OpenAI Embeddings with Azure CosmosDB for MongoDBvCore](https://devblogs.microsoft.com/cosmosdb/introducing-vector-search-in-azure-cosmos-db-for-mongodb-vcore/)
 
 ## Speech/Vision
+
+- [Use Speech to converse with OpenAI](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/openai-speech?tabs=windows)
 
 - [Captioning and Call Center Transcription in Python, .NET, JavaScript, Java, C++ and Go ](https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/scenarios)
 
@@ -149,6 +187,8 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 - Conversational Language Understanding in [Python](https://learn.microsoft.com/en-us/samples/azure/azure-sdk-for-python/conversationslanguageunderstanding-samples/) and [.NET](https://learn.microsoft.com/en-us/samples/azure/azure-sdk-for-net/azureailanguageconversations-samples/)
 
 ## Applied AI/Decision
+
+- [Azure Form Recognizer SDKs for .NET/C#, Python, JavaScript/TypeScript and Java](https://learn.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/sdk-preview?view=form-recog-3.0.0&tabs=csharp)
 
 - Extract structured data from forms, receipts, invoices, and cards using Form Recognizer in [Python](https://github.com/Azure/azure-sdk-for-python/blob/main/sdk/formrecognizer/azure-ai-formrecognizer/samples/README.md#samples-for-azure-form-recognizer-client-library-for-python), [.NET](https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/formrecognizer/Azure.AI.FormRecognizer/samples/README.md#common-scenarios-samples-for-client-library-version-400), [TypeScript](https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/formrecognizer/ai-form-recognizer/samples/v4/typescript/README.md#azure-form-recognizer-client-library-samples-for-typescript), [JavaScript](https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/formrecognizer/ai-form-recognizer/samples/v4/javascript/README.md#azure-form-recognizer-client-library-samples-for-javascript), and [Java](https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/formrecognizer/azure-ai-formrecognizer/src/samples/README.md#azure-form-recognizer-client-library-samples-for-java) 
 
