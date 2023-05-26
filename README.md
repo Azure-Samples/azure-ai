@@ -140,7 +140,7 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 ## Create and manage Azure AI Resources with code 
 
-- [Azure Developer CLI](https://azure.github.io/awesome-azd/?tags=openai)
+- [Azure Developer CLI](https://azure.github.io/awesome-azd/?tags=ai)
 
 - [Azure CLI](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/how-to/create-resource)
 
