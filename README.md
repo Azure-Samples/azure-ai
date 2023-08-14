@@ -140,6 +140,24 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [More Samples](https://aka.ms/oai/java/samples)🆕
 
+## OpenAI for Go Developers
+
+- [Azure OpenAI SDK for Go](https://github.com/Azure/azure-sdk-for-go/tree/main/sdk/ai/azopenai)
+
+- [Package (pkg.go.dev)](https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/sdk/ai/azopenai)
+
+- [ChatCompletions](https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/sdk/ai/azopenai#example-Client.GetChatCompletions)
+
+- [ChatCompletions using Functions](https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/sdk/ai/azopenai#example-Client.GetChatCompletions-Functions)
+
+- [Streaming Chat Completions](https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/sdk/ai/azopenai#example-Client.GetChatCompletionsStream)
+
+- [Image generation](https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/sdk/ai/azopenai#example-Client.CreateImage)
+
+- [Embeddings](https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/sdk/ai/azopenai#example-Client.GetEmbeddings)
+
+- [Other examples](https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/sdk/ai/azopenai#pkg-examples)
+
 ## Create and manage Azure AI Resources with code 
 
 - [Azure Developer CLI](https://azure.github.io/awesome-azd/?tags=ai)
