@@ -15,6 +15,8 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [Azure OpenAI for Java Developers](#openai-for-java-developers)🆕
 
+- [Azure OpenAI for Go Developers](#openai-for-go-developers)🆕
+
 - [Secure your Azure AI Resources](#secure-your-azure-ai-resources)✨
 
 - [Create and manage Azure AI Resources with code](#create-and-manage-azure-ai-resources-with-code)✨
