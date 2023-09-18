@@ -45,8 +45,9 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 
 ## Azure OpenAI ChatGPT Copilots with your own data
+- [ChatGPT JavaScript Copilot with your own data using Cognitive Search](https://github.com/Azure-Samples/azure-search-openai-javascript)✨
 
-- [ChatGPT Python Copilot with your own data using Cognitive Search](https://aka.ms/azai/chatwithdata)✨
+- [ChatGPT Python Copilot with your own data using Cognitive Search](https://aka.ms/azai/chatwithdata)
 
 - [ChatGPT .NET Copilot with your own data using Cognitive Search](https://aka.ms/azai/dotnet/chatwithdata)🆕
 
