@@ -141,6 +141,8 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [Streaming Chat Completions](https://github.com/Azure/azure-sdk-for-java/blob/azure-ai-openai_1.0.0-beta.1/sdk/openai/azure-ai-openai/src/samples/java/com/azure/ai/openai/StreamingChatSample.java)🆕
 
+- [Spring Samples](https://aka.ms/azai/spring)🆕
+  
 - [More Samples](https://aka.ms/oai/java/samples)🆕
 
 ## OpenAI for Go Developers
