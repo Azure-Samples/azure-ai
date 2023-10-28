@@ -3,7 +3,9 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 ## Table of Contents  ✨🆕
 
-- [Getting started with Azure OpenAI ChatGPT Copilots in Python, .NET/C#, JavaScript/TypeScript and Java](#getting-started-with-azure-openai-chatgpt-copilots)🆕
+- [Azure AI Reference Templates](#azure-ai-reference-templates)🆕
+
+- [Getting started with Azure OpenAI ChatGPT Copilots in Python, .NET/C#, JavaScript/TypeScript and Java](#getting-started-with-azure-openai-chatgpt-copilots)
 
 - [Azure OpenAI ChatGPT Copilots With Your Own Data using Cognitive Search, MongoDB, Redis or PostgreSQL](#azure-openai-chatgpt-copilots-with-your-own-data)✨
 
@@ -27,7 +29,7 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [Applied AI/Decision](#applied-aidecision)
 
-## Azure AI Reference Templates ✨🆕
+## Azure AI Reference Templates✨🆕
 - [Build an enterprise chat app using your data with Azure OpenAI in Python](https://aka.ms/azai/py/chatwithdata)✨
 
 - [Build an enterprise chat app using your data with Azure OpenAI in JavaScript](https://aka.ms/azai/js/chatwithdata)✨
