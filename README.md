@@ -27,6 +27,22 @@ Welcome to a hub for the Azure AI developer community! This readme includes link
 
 - [Applied AI/Decision](#applied-aidecision)
 
+## Azure AI Reference Templates ✨🆕
+- [Build an enterprise chat app using your data with Azure OpenAI in Python](https://aka.ms/azai/py/chatwithdata)✨
+
+- [Build an enterprise chat app using your data with Azure OpenAI in JavaScript](https://aka.ms/azai/js/chatwithdata)✨
+
+- [Build an enterprise chat app using your data with Azure OpenAI in .NET](https://aka.ms/azai/net/chatwithdata)✨
+
+- [Build an enterprise chat app using your data with Azure OpenAI in Java](https://aka.ms/azai/java/chatwithdata)✨
+
+- [Build a chat app with Azure OpenAI in Python](https://aka.ms/azai/chat)✨
+
+- [Build a LangChain with Azure OpenAI in Python](https://aka.ms/azai/lc)✨
+
+- [Build a ChatGPT Plugin with Azure Container Apps in Python](https://aka.ms/azai/plugin)✨
+
+
 ## Getting started with Azure OpenAI ChatGPT Copilots
 
 - [Simple Azure OpenAI ChatGPT Copilot in Python](https://aka.ms/azai/chat)🆕
