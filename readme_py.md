@@ -13,7 +13,7 @@ Welcome to a hub for the Azure AI Python developer community! This readme includ
 - [Other Azure AI services](#other-azure-ai-services)🆕
    * [Other Azure AI E2E Solutions](#other-azure-ai-e2e-solutions)🆕
    * [Other Azure AI Building Blocks](#other-azure-ai-building-blocks)🆕
-   * [Other Azure AI SDKs and samples/guidance](#other-azure-ai-sdks-and-samplesguidance)🆕
+   * [Other Azure AI SDKs and samples/guidance](#other-azure-ai-sdks-and-other-samplesguidance)🆕
 
 ## Azure AI Reference Templates✨🆕
   ### Azure AI E2E Solutions🆕
