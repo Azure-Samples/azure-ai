@@ -52,11 +52,11 @@ Welcome to a hub for the Azure AI Python developer community! This readme includ
 ## Other Azure AI services
   ### Other Azure AI E2E Solutions🆕
   - [Captioning and Call Center Transcription](https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/scenarios)
-  - Use Form Recognizer to automate a paper based process using the [New patient registration with Form Recognizer workshop](https://newpatiente2e.github.io/docs/). ([Code](https://github.com/newpatiente2e/Contoso-New-Patient-App)) 
+  - Use Document Intelligence to automate a paper based process using the [New patient registration with Form Recognizer workshop](https://newpatiente2e.github.io/docs/). ([Code](https://github.com/newpatiente2e/Contoso-New-Patient-App)) 
 
   ### Other Azure AI Building Blocks🆕
   - [Use Speech to converse with OpenAI](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/openai-speech?tabs=windows)
-  - Translate documents from and into more than 100 different languages using [**Document Translation sample apps**](https://github.com/MicrosoftTranslator/DocumentTranslation) 
+  - Translate documents from and into more than 100 different languages using [Document Translation sample apps](https://github.com/MicrosoftTranslator/DocumentTranslation) 
 
   ### Other Azure AI SDKs and other samples/guidance🆕
   - Integrate Speech into your apps with [Speech SDK Samples in Python, .NET, JavaScript, Java, C++ and other languages](https://learn.microsoft.com/en-us/samples/azure-samples/cognitive-services-speech-sdk/sample-repository-for-the-microsoft-cognitive-services-speech-sdk/)
