@@ -1,6 +1,7 @@
 # Azure AI Hub for Python Developers
 Welcome to a hub for the Azure AI Python developer community! This readme includes links to a curated list of the official Microsoft SDKs, Samples and other guidance around Azure OpenAI and other Cognitive Services. The [Discussions](https://github.com/Azure-Samples/azure-ai/discussions) tab is an opportunity for you to talk directly to the Microsoft Product teams working on Azure AI and share/learn from other developers like yourself. 
 
+We include both complete E2E solutions around your top scenarios, as well as building blocks targeted at specific use cases.  
 ## Table of Contents  ✨🆕
 
 - [Azure AI Reference Templates](#azure-ai-reference-templates)🆕
@@ -16,6 +17,7 @@ Welcome to a hub for the Azure AI Python developer community! This readme includ
    * [Other Azure AI SDKs and samples/guidance](#other-azure-ai-sdks-and-other-samplesguidance)🆕
 
 ## Azure AI Reference Templates✨🆕
+Azure AI Reference Templates are our strategic investment to provide you with well-maintained, easy to deploy reference implementations. These ensure a production-ready starting point for your intelligent applications, distinguishing them from typical samples/guidance you might encounter on the web that often go stale as the underlying products evolve. 
   ### Azure AI E2E Solutions🆕
   - [Build an enterprise chat app using your data with Azure OpenAI in Python](https://aka.ms/azai/py/chatwithdata)✨
   ### Azure AI Building Blocks🆕
